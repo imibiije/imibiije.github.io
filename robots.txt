@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imibiije.github.io/sitemap_index.imibiije
